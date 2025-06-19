@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Casa da Mulher Brasileira",
+    "type": "standard",
+    "address": "Q 203 - Recanto das Emas, Brasília - DF, 70297-400",
+    "phone": "(61) 3224-5213 / Disque 180",
+    "description": "Atendimento integral 24 horas com serviços de delegacia, justiça, apoio psicossocial e abrigamento.",
+    "latitude": -15.898272,
+    "longitude": -48.06359
+  },
+  {
+    "id": 2,
+    "name": "DEAM I - Delegacia Especial de Atendimento à Mulher (Asa Sul)",
+    "type": "cop",
+    "address": "Asa Sul EQS 204/205 - Brasília - DF, 70234-400",
+    "phone": "(61) 3207-6172",
+    "description": "Delegacia especializada para registro de ocorrências de violência doméstica e familiar e solicitação de medidas protetivas.",
+    "latitude": -15.817452,
+    "longitude": -47.908005
+  },
+  {
+    "id": 3,
+    "name": "DEAM II - Delegacia Especial de Atendimento à Mulher (Ceilândia)",
+    "type": "cop",
+    "address": "St. M QNM 2 - Ceilândia, Brasília - DF, 72210-515",
+    "phone": "(61) 3207-7391",
+    "description": "Delegacia especializada para registro de ocorrências na região de Ceilândia e arredores.",
+    "latitude": -15.818847,
+    "longitude": -48.113012
+  },
+  {
+    "id": 4,
+    "name": "CREAS - Brasília (Centro de Referência Especializado de Assistência Social)",
+    "type": "standard",
+    "address": "SGAS II St. de Grandes Áreas Sul 615 - Brasília, DF, 70200-001",
+    "phone": "(61) 3773-7489",
+    "description": "Serviço da assistência social que oferece apoio a famílias e indivíduos em situação de violação de direitos, incluindo violência doméstica.",
+    "latitude": -15.83631,
+    "longitude": -47.91595
+  },
+  {
+    "id": 5,
+    "name": "MPDFT - Núcleo de Gênero Pró-Mulher",
+    "type": "judge",
+    "address": "Srps LOTE 02 - Praça do Buriti, Brasília - DF, 70091-900",
+    "phone": "(61) 3343-6197",
+    "description": "Núcleo do Ministério Público que atua na defesa dos direitos das mulheres e no combate à violência de gênero.",
+    "latitude": -15.794982,
+    "longitude": -47.888045
+  }
+]

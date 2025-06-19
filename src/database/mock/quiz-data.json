@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "questionText": "Pensando no seu relacionamento, como ele age em relação ao seu celular e redes sociais?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Exige minhas senhas, lê minhas conversas e controla quem eu sigo, dizendo que é por ciúmes ou 'cuidado'.",
+        "redFlag": true
+      },
+      {
+        "id": "b",
+        "text": "Às vezes faz perguntas ou fica incomodado, mas não me impede de usar.",
+        "redFlag": false
+      },
+      {
+        "id": "c",
+        "text": "Ele respeita totalmente minha privacidade, não temos esse tipo de problema.",
+        "redFlag": false
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Controle sobre seus dispositivos e contas digitais é um sinal claro de violência psicológica. O ciúme ou o 'cuidado' são frequentemente usados como desculpa para invadir a privacidade e te isolar de amigos e familiares. Ter seu espaço pessoal respeitado, inclusive online, é um direito seu.",
+    "source": "Inspirado no eixo de 'Violência Patrimonial' do Formulário Nacional de Risco (CNJ/CNMP n. 05/2020)."
+  },
+  {
+    "id": 2,
+    "questionText": "Quando vocês têm uma discussão ou ele está frustrado, qual destes comportamentos é mais comum?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ele me ofende, humilha ou grita, e depois costuma dizer que 'perdeu a cabeça' ou que a culpa foi minha.",
+        "redFlag": true
+      },
+      {
+        "id": "b",
+        "text": "Ele fica em silêncio e se recusa a conversar por um longo período, me ignorando.",
+        "redFlag": false
+      },
+      {
+        "id": "c",
+        "text": "Conseguimos conversar sobre o problema, mesmo que seja difícil, sem ofensas.",
+        "redFlag": false
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Agressão verbal é violência. Diminuir, humilhar e xingar são formas de abuso psicológico que minam sua autoestima. Colocar a culpa em você pela reação dele é uma tática de manipulação conhecida como 'gaslighting'. Um relacionamento saudável se baseia em respeito, mesmo durante os desentendimentos.",
+    "source": "Inspirado no eixo de 'Violência Patrimonial' do Formulário Nacional de Risco (CNJ/CNMP n. 05/2020)."
+  },
+  {
+    "id": 3,
+    "questionText": "Como funciona a organização financeira de vocês, especialmente em relação ao seu dinheiro?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ele controla meu dinheiro, mesmo o que eu ganho, e preciso pedir permissão ou dar satisfação para quase todos os meus gastos.",
+        "redFlag": true
+      },
+      {
+        "id": "b",
+        "text": "Temos independência financeira e/ou decidimos os gastos maiores juntos.",
+        "redFlag": false
+      },
+      {
+        "id": "c",
+        "text": "Ele não se envolve nas minhas finanças pessoais.",
+        "redFlag": false
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Controlar ou reter o dinheiro de uma mulher é classificado como violência patrimonial. Essa é uma estratégia para criar dependência, limitando sua autonomia e tornando mais difícil sair do relacionamento, caso deseje. Você tem direito à sua independência financeira.",
+    "source": "Inspirado no eixo de 'Violência Patrimonial' do Formulário Nacional de Risco (CNJ/CNMP n. 05/2020)."
+  },
+  {
+    "id": 4,
+    "questionText": "Durante as brigas mais intensas, já aconteceu de ele ter algum comportamento físico que te assustou, mesmo sem te tocar?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sim, ele já deu socos na parede, quebrou objetos, jogou coisas ou usou o corpo para me intimidar (me encurralando, por exemplo).",
+        "redFlag": true
+      },
+      {
+        "id": "b",
+        "text": "Não, ele nunca teve um comportamento físico agressivo.",
+        "redFlag": false
+      },
+      {
+        "id": "c",
+        "text": "Ele fica nervoso, mas no máximo bate uma porta ao sair do cômodo.",
+        "redFlag": false
+      }
+    ],
+    "correctOptionId": "a",
+    "explanation": "Isso também é violência. Agressão a objetos e demonstrações de força são táticas de intimidação para gerar medo e mostrar 'quem está no controle'. Esse comportamento é um forte indicador de que a violência pode escalar para agressão física direta contra você.",
+    "source": "Inspirado no eixo de 'Violência Patrimonial' do Formulário Nacional de Risco (CNJ/CNMP n. 05/2020)."
+  },
+  {
+    "id": 5,
+    "questionText": "Pensando em seus amigos e familiares, como seu parceiro reage à sua relação com eles?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ele apoia e me incentiva a manter contato e sair com eles.",
+        "redFlag": false
+      },
+      {
+        "id": "b",
+        "text": "Ele frequentemente critica meus amigos e familiares, e cria problemas ou 'cenas' quando quero encontrá-los, fazendo com que eu saia cada vez menos.",
+        "redFlag": true
+      },
+      {
+        "id": "c",
+        "text": "Ele não tem muito contato, mas não interfere na minha relação com eles.",
+        "redFlag": false
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Isolar a mulher de sua rede de apoio (amigos e família) é uma das estratégias mais comuns e perigosas do ciclo de abuso. Sem o suporte de pessoas de confiança, a vítima se torna mais vulnerável e dependente do agressor, dificultando a percepção da violência e a busca por ajuda.",
+    "source": "Inspirado no eixo de 'Violência Patrimonial' do Formulário Nacional de Risco (CNJ/CNMP n. 05/2020)."
+  },
+  {
+    "id": 6,
+    "questionText": "Em relação à intimidade sexual, você sempre se sente 100% respeitada em suas vontades?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sim, meu 'não' é sempre respeitado e ele entende quando não estou com vontade.",
+        "redFlag": false
+      },
+      {
+        "id": "b",
+        "text": "Já aconteceu de eu não querer e ele insistir até eu ceder, ou me pressionar a fazer coisas que eu não estava confortável.",
+        "redFlag": true
+      },
+      {
+        "id": "c",
+        "text": "Nós raramente temos intimidade.",
+        "redFlag": false
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Qualquer ato sexual sem consentimento livre e explícito é violência sexual. Isso inclui pressionar, insistir, chantagear ou forçar qualquer tipo de prática. Em um relacionamento saudável, o consentimento é essencial em todas as interações, e o seu 'não' nunca deve ser questionado.",
+    "source": "Inspirado no eixo de 'Violência Patrimonial' do Formulário Nacional de Risco (CNJ/CNMP n. 05/2020)."
+  },
+  {
+    "id": 7,
+    "questionText": "Ele possui ou já mencionou ter acesso a alguma arma de fogo (revólver, pistola, etc.)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Não, nunca.",
+        "redFlag": false
+      },
+      {
+        "id": "b",
+        "text": "Sim, ele tem uma arma ou já falou sobre ter acesso a uma.",
+        "redFlag": true
+      },
+      {
+        "id": "c",
+        "text": "Não sei dizer com certeza.",
+        "redFlag": false
+      }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Este é um dos fatores de maior alerta. A presença de uma arma de fogo em um ambiente de violência doméstica aumenta exponencialmente o risco de feminicídio. Se este for o caso, a busca por ajuda especializada e medidas protetivas se torna ainda mais urgente. Leve essa informação com extrema seriedade.",
+    "source": "Inspirado no eixo de 'Violência Patrimonial' do Formulário Nacional de Risco (CNJ/CNMP n. 05/2020)."
+  }
+]

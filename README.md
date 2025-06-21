@@ -25,7 +25,7 @@ Siga os passos abaixo para executar a API em seu ambiente de desenvolvimento loc
 1.  **Clone o repositório:**
 
     ```bash
-    git clone [URL_DO_SEU_REPOSITORIO_AQUI]
+    git clone https://github.com/Projeto-Maia/Maia-back.git
     cd maia-backend
     ```
 
